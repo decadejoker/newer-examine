@@ -1,0 +1,112 @@
+.contenter{
+    text-align: center;
+}
+
+.contenter .head{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.contenter .head button{
+    background-color: rgb(76, 218, 76);
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+.contenter .head button.check{
+    background-color: blue;
+}
+
+.contenter .foot{
+    margin-top: 10px;
+    font-size: 8px;
+    font-weight: bold;
+}
+
+table{
+    border-spacing: 1px;
+    margin: 0 auto;
+    background-color: #929196;
+    border-collapse: separate;
+}
+ 
+td{
+    width: 20px;
+    height: 20px;
+    background-color: #ccc;
+    border: 1px solid;
+    border-color: #fff #a1a1a1 #a1a1a1 #fff;
+    text-align: center;
+    line-height: 20px;
+    font-weight: bold;
+    font-size: 5px;
+}
+
+.mine{
+    background: #d9d9d9 url(./img/mine.gif) no-repeat center;
+    background-size: cover;
+}
+
+.flag{
+    background: #d9d9d9 url(./img/flag.gif) no-repeat center;
+    background-size: cover;
+}
+
+button{
+    cursor: pointer;
+}
+
+td.zero{
+    background-color: #d9d9d9;
+    border-color: #d9d9d9;
+}
+
+td.one{
+    background-color: #d9d9d9;
+    border-color: #d9d9d9;
+    color: #0332fe;
+}
+
+td.two{
+    background-color: #d9d9d9;
+    border-color: #d9d9d9;
+    color: #019f02;
+}
+
+td.three{
+    background-color: #d9d9d9;
+    border-color: #d9d9d9;
+    color: #ff2600;
+}
+
+td.four{
+    background-color: #d9d9d9;
+    border-color: #d9d9d9;
+    color: #93208f;
+}
+
+td.five{
+    background-color: #d9d9d9;
+    border-color: #d9d9d9;
+    color: #ff7f29;
+}
+
+td.six{
+    background-color: #d9d9d9;
+    border-color: #d9d9d9;
+    color: #ff3fff;
+}
+
+td.seven{
+    background-color: #d9d9d9;
+    border-color: #d9d9d9;
+    color: #3fffbf;
+}
+
+td.eight{
+    background-color: #d9d9d9;
+    border-color: #d9d9d9;
+    color: #22ee0f;
+}
+
